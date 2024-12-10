@@ -75,11 +75,11 @@ public static void main(String[] args) {
 
 
     //divide by 0
-    int f =10/0; //!error
-    system.out.println(f)
+    //int f =10/0; //!error
+    System.out.println(f)
 
     //0/10
-    System.out.println (0/10); // 0
+System.out.println (0/10); // 0
 
     int x5 = 3.0
     //Step 1: 3.0 -> double value, 2 -> int value
