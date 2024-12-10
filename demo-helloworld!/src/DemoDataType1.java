@@ -1,5 +1,4 @@
-public class DemoDataType {
-
+public class DemoDataType1 {
   public static void main(String[] args) {
     //Comment.Welcome to bootcamp! @(*!@(#)!@)
     //1.Data Type (primitive)
@@ -173,10 +172,10 @@ int age2 = 18;
 boolean isAudit = age2 >= 18;
 System.out.println (isAudit);//true
 
-
-
-
-
-
   }
 }
+
+
+
+
+  
