@@ -24,8 +24,8 @@ public static void main (String[]args){
   byte maxByte = 127;
 
   // int value -> byte;
-  maxByte = maxByte +1 ;// jave is it safe? Not safe
-  maxByte = maxByte -1 ;// jave is it safe? Not safe
+  //maxByte = maxByte +1 ;// jave is it safe? Not safe
+  //maxByte = maxByte -1 ;// jave is it safe? Not safe
 
   maxByte = (byte) (maxByte +1) ;// jave is it safe? Not safe
   maxByte = (byte) (maxByte -2) ;// jave is it safe? Not safe
