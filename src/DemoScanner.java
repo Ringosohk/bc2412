@@ -10,37 +10,35 @@ public class DemoScanner {
   int num = scanner.nextInt();//scanner.next
   //num = num *2;
   //System.out.println("num="+num);//String +int -> String
-    //scanner.nextLine();
+ 
 
     //System.out.println("please input a String:");
     //String str = scanner.nextLine();
     //System.out.println("Str="+str);
-    for (int i = 0; i< num; i++){
-      System.out.println("hello");
+    
+    //for (int i = 0; i< num; i++){
+      //System.out.println("hello");
     //}
 
     //num->numbers of days
     //for loop
-    int totalHours = 0;
-    for (int i = 0; i < day;i++){
-      totalHours +=24;
-    }
-      System.out.println(totalHours);
+    //int totalHours = 0;
+    //for (int i = 0; i < day;i++){
+      //totalHours +=24;
+    //}
+      //System.out.println(totalHours);
 
     //num->numbers of days
     //for loop
-    int totalMinutes = 0;
-    for (int i = 0; i < day;i++){
-      for (int j =0; j< ; j++){
-
-      }
-      totalMinutes +=24;
-    }
-      System.out.println(totalMinutes);
-
-
-
-    }
+    //int totalMinutes = 0;
+    //for (int i = 0; i < day;i++){
+      //for (int j =0; j < minutes; j++){
+        
+      //}
+      //totalMinutes += 24*60;
+    //}
+      //System.out.println(totalMinutes);
+    //}
 
   }
   

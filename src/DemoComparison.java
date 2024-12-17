@@ -64,7 +64,7 @@ if (age>=18) { //age <18
 
     //!The ordering of event checking is fidderent
     //AND go first
-    boolean result6 =age2>18 || age 2>=30&&gender2=='M';
+    boolean result6 =age2>18 || age 2 >= 30 && gender2=='M';
     //
 
 }

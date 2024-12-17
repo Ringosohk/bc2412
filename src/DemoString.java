@@ -53,7 +53,7 @@ public class DemoString {
      //Empty String
      String emptyString = "";
      System.out.println(emptyString);//0
-     boolean isStringEmpty = emptyString.equals("");
+     boolean isStringEmpty = emptyString.equals(""); //asking if emptyString equals to ""
      System.out.println(isStringEmpty);//true
 
      String s = "hello";
